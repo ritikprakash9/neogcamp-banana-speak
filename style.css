@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding:0;
+}
+
+:root
+{
+    --primary-color: #22d3ee;
+}
+
+
+header{
+    background-color: var(--primary-color);
+     text-align: center;
+     padding: 2em;
+}
+
+section{
+    margin-top: 2em;
+    margin-left: 25%;
+}
+
+#txt{
+    width: 60%;
+    height: 20vh;
+}
+
+section p{
+    margin: 1em 0em 0.5em;
+}
+button{
+    margin-top: 1em;
+    padding: 1em 2em;
+    background-color: var(--primary-color);
+}
+
+#dis-txt
+{
+    width: 60%;
+    height: 10vh;
+}
+
+footer{
+    background-color: var(--primary-color);
+
+    margin-top: 2em;
+    padding: 2em;
+    text-align: center;
+}
+
+footer p{
+    margin-top: 1em;
+}
